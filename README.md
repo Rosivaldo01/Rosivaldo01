@@ -6,7 +6,7 @@
 
 ## **Minha pretenção:**
 
-Me preparando para uma transição de careira, e nada melhor que numa area em que me identifico
+Me preparando para uma transição de careira, e nada melhor que numa area em que me identifico.
 
 📫  **Como chegar até a mim**
 
