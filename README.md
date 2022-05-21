@@ -10,7 +10,7 @@ Me preparando para uma transição de careira, e nada melho que numa area em que
 
 📫  **Como chegar até a mim**
 
--   rosivaldo.correia@tera.com.br 
+-   rosivaldo.correia@terra.com.br 
 -   www.linkedin.com/in/rosivaldocorreia
 -   (11) 97988- 9698
 
