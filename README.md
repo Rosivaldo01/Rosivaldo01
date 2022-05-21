@@ -4,7 +4,7 @@
 - Em Python;
 - E javaScript.
 
-## **Minha preteção:**
+## **Minha pretenção:*
 
 Me preparando para uma transição de careira, e nada melhor que numa area em que me identifico
 
