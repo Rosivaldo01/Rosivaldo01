@@ -1,4 +1,5 @@
-# _Olá,  seja bem vindo a minha págin do GitHub_
+# _Olá,  seja bem vindo a minha página do GitHub_
+
 ###  **Estou iniciando dois cursos em programação**
 - Em Python;
 - E javaScript.
