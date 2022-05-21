@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Rosivaldo01
-- 👀 Tenho interesse em Linguagem de programação  
-🌱 I’m currently learni  a programar em Paython
-- 📫 How to reach me ... rosivaldo.correia@tera.com.br  / www.linkedin.com/in/rosivaldocorreia
-- 
+# _Olá,  seja bem vindo a minha págin do GitHub_
+###  **Estou iniciando dois cursos em programação**
+- Em Python;
+- E javaScript.
+
+## **Minha preteção:**
+
+Me preparando para uma transição de careira, e nada melho que numa area em me identifici.
+
+📫  **Como chegar até a mim**
+
+-   rosivaldo.correia@tera.com.br 
+-   www.linkedin.com/in/rosivaldocorreia
+-   (11) 97988- 9698
 
 <!---
 Rosivaldo01/Rosivaldo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
