@@ -5,7 +5,7 @@
 
 ## **Minha preteção:**
 
-Me preparando para uma transição de careira, e nada melho que numa area em me identifici.
+Me preparando para uma transição de careira, e nada melho que numa area em quw me identifici.
 
 📫  **Como chegar até a mim**
 
