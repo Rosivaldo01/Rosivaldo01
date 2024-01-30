@@ -1,9 +1,5 @@
 # _Olá,  seja bem vindo a minha página do GitHub_
 
-###  **Estou iniciando dois cursos em programação**
-- _Em Python_;
-- _E JavaScript_.
-
 ## **Minha pretenção:**
 
 Me preparando para uma transição de careira, e nada melhor que numa area em que me identifico.
